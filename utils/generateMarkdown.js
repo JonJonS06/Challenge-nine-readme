@@ -28,52 +28,51 @@ function renderLicenseBadge(license) {
   
   // TODO: Create a function to generate markdown for README
   function generateMarkdown(data) {
-    return `# ${data.title}
+    return `
+# ${data.title}
 
-    ${renderLicenseBadge(data.license)}
+${renderLicenseBadge(data.license)}
   
-    ## Description
+## Description
   
-    ${data.description}
+${data.description}
   
-    ## Table of Contents
+## Table of Contents
 
-    * [Installation](#installation)
-    * [Usage](#usage)
-    ${renderLicenseLink(data.license)}
-    * [Contributing](#contributing)
-    * [Tests](#tests)
-    * [Questions](#questions)
+* [Installation](#installation)
+* [Usage](#usage)
+${renderLicenseLink(data.license)}
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
 
-    ## Installation
+## Installation
 
-    To install the necessary dependencies, please run the following commands:
+To install the necessary dependencies, please run the following commands:
 
-    ${data.installation}
+${data.installation}
 
-    ## Usage
+## Usage
 
-    \`\`\`
-    ${data.usage}
-    \`\`\`
+${data.usage}
 
-    ${renderLicenseSection(data.license)}
+${renderLicenseSection(data.license)}
 
-    ## Contributing
+## Contributing
 
-    ${data.contributing}
+${data.contributing}
 
-    ## Tests
+## Tests
 
-    To run the proper tests, please use the following command:
+To run the proper tests, please use the following command:
 
-    ${data.test}
+${data.test}
 
-    ## Questions
+## Questions
 
-    If you have any questions about the repository, you can contact me at ${data.email}. 
-    You can also check out my other projects at https://github.com/${data.github}
-    `;
-  }
+If you have any questions about the repository, you can contact me at ${data.email}. 
+You can also check out my other projects at https://github.com/${data.github}    
+`;
+}
   
   module.exports = generateMarkdown;

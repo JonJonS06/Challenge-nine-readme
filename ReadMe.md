@@ -1,46 +1,46 @@
-# ReadMe Generator
 
-    ![Github License](https://img.shields.io/badge/license-MIT-blue.svg)
+# ReadME Generator
+
+![Github License](https://img.shields.io/badge/license-MIT-blue.svg)
   
-    ## Description
+## Description
   
-    This willl help you to create a great ReadMe
+Not Today buddy
   
-    ## Table of Contents
+## Table of Contents
 
-    * [Installation](#installation)
-    * [Usage](#usage)
-    [License](#license)
-    * [Contributing](#contributing)
-    * [Tests](#tests)
-    * [Questions](#questions)
+* [Installation](#installation)
+* [Usage](#usage)
+[License](#license)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
 
-    ## Installation
+## Installation
 
-    To install the necessary dependencies, please run the following commands:
+To install the necessary dependencies, please run the following commands:
 
-    npm i
+npm i
 
-    ## Usage
+## Usage
 
-    ```
-    N/A
-    ```
+n/a
 
-    ## License
+## License
       This project is licensed under the MIT license.
 
-    ## Contributing
+## Contributing
 
-    Please contribute!
+n/a
 
-    ## Tests
+## Tests
 
-    To run the proper tests, please use the following command:
+To run the proper tests, please use the following command:
 
-    npm test
+npm test
 
-    ## Questions
+## Questions
 
-    If you have any questions about the repository, you can contact me at jonjon1106@gmail.com. 
-    You can also check out my other projects at https://github.com/Jonjons06
+If you have any questions about the repository, you can contact me at jon@gmail.com. 
+You can also check out my other projects at https://github.com/jonathan
+    
