@@ -1,20 +1,27 @@
 
-# README Generator
+# ReadMe Generator
 
 ![Github License](https://img.shields.io/badge/license-MIT-blue.svg)
   
 ## Description
   
-This application is designed to assist the user in creating a properly structured ReadMe.md file for their repository.
-  
-## Table of Contents
+This application was created to assist the user in quickly creating a properly structured readMe.md file.
 
-* [Installation](#installation)
-* [Usage](#usage)
-[License](#license)
-* [Contributing](#contributing)
-* [Tests](#tests)
-* [Questions](#questions)
+## Preview
+
+![Alt text](../../../Downloads/Untitled_%20May%2017,%202023%209_43%20AM.gif)
+
+## Table of Contents
+- [ReadMe Generator](#readme-generator)
+  - [Description](#description)
+  - [Preview](#preview)
+  - [Table of Contents](#table-of-contents)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [License](#license)
+  - [Contributing](#contributing)
+  - [Tests](#tests)
+  - [Questions](#questions)
 
 ## Installation
 
@@ -24,14 +31,14 @@ npm i
 
 ## Usage
 
-You will need to clone the repo to your github account and install the necessary dependencies in order to utilize the application.
+You will need to clone the repo to your GitHub account and install the necessary dependencies in order to utilize the application.
 
 ## License
       This project is licensed under the MIT license.
 
 ## Contributing
 
-Any and all contributions are welcome on this repository.
+We accept all forms of payment(just kidding). We welcome any and all contributions to this repo.
 
 ## Tests
 
@@ -42,4 +49,7 @@ npm test
 ## Questions
 
 If you have any questions about the repository, you can contact me at jonjon1106@gmail.com. 
-You can also check out my other projects at https://github.com/JonJons06    
+You can also check out my other projects at https://github.com/JonJonS06    
+
+
+[def]: ../../../Downloads/Untitled_%20May%2017,%202023%209_43%20AM.gif
