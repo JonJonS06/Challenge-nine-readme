@@ -9,7 +9,8 @@ This application was created to assist the user in quickly creating a properly s
 
 ## Preview
 
-![Alt text](../../../Downloads/Untitled_%20May%2017,%202023%209_43%20AM.gif)
+[Untitled_ May 17, 2023 9_43 AM (1).webm](https://github.com/JonJonS06/Challenge-nine-readme/assets/124073266/24655186-ed5b-4614-96cf-1e7640dfaebd)
+
 
 ## Table of Contents
 - [ReadMe Generator](#readme-generator)
@@ -49,7 +50,4 @@ npm test
 ## Questions
 
 If you have any questions about the repository, you can contact me at jonjon1106@gmail.com. 
-You can also check out my other projects at https://github.com/JonJonS06    
-
-
-[def]: ../../../Downloads/Untitled_%20May%2017,%202023%209_43%20AM.gif
+You can also check out my other projects at https://github.com/JonJonS06
